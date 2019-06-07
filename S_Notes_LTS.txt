@@ -1,0 +1,13 @@
+Git repo -Planning
+
+Carte acces
+Nom de famille
+Droits CITRIX
+Accès internet
+
+? (si pas le cas) Sprint Planning avec estimation - taches créées et discution préalables.
+Unit tests ou Basic tests ? Is is real code ?
+
+"In order to ensure the traceability of your work, use the requirement attribute in your code to indicate which requirements are developed."
+requirement ?
+
